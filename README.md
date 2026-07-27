@@ -1,51 +1,90 @@
 # Hi, I'm Hizbul Wahyudi 👋
 
-### Frontend Developer | IT Consultant | Building Digital Solutions
+### Frontend Developer | IT Consultant | Digital Solutions
 
-I'm an IT professional with 6 years of experience as an IT Consultant at BAZNAS NTB, Indonesia.
+I'm a Computer Science graduate and IT Consultant with 6+ years of professional experience in technology and digital solutions.
 
-I'm currently focusing on Frontend Development and building modern, responsive, and user-friendly web applications.
+I enjoy building modern, responsive, and user-focused websites and applications that solve real-world problems.
 
-### 🚀 Currently Learning & Building
+Currently, I'm focusing on growing as a Frontend Developer and building practical digital products using modern web technologies.
 
-- HTML5 & CSS3
-- JavaScript
+---
+
+## 🚀 About Me
+
+- 🎓 Bachelor of Computer Science
+- 💼 6+ years of experience as an IT Consultant
+- 🌏 Based in West Nusa Tenggara, Indonesia
+- 💻 Interested in Frontend Development and Web Applications
+- 🌐 Open to Remote Opportunities and Freelance Projects
+- 🚀 Currently building and improving real-world digital products
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Professional Portfolio
+
+My personal portfolio website showcasing my experience, skills, and selected projects.
+
+**Tech:** HTML, CSS, JavaScript
+
+🔗 [View Portfolio](https://github.com/WahyuGear/professional-landing-page)
+
+---
+
+### 💙 Crowdfunding Platform
+
+A modern crowdfunding platform focused on creating a simple and accessible digital experience for fundraising and social impact.
+
+**Tech:** HTML, CSS, JavaScript
+
+🚧 Currently in development
+
+---
+
+## 📈 Currently Learning
+
 - React.js
-- Next.js
-- Git & GitHub
+- Modern Frontend Development
 - Responsive Web Design
+- UI/UX Principles
 - REST API Integration
-- AI-Assisted Development
-
-### 💻 Featured Projects
-
-🚧 **Professional Landing Page**  
-A modern and responsive landing page project built as part of my frontend development portfolio.
-
-🚧 **Crowdfunding Platform**  
-A crowdfunding platform designed to support social and humanitarian fundraising campaigns.
-
-🚧 **Admin Dashboard**  
-A responsive dashboard interface for managing data and digital services.
-
-### 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode" />
-</p>
-
-### 📫 Connect With Me
-
-- 📧 Email: hizbulwahyudi1@gmail.com
-- 💼 LinkedIn: Coming Soon
-- 🌐 Portfolio: Coming Soon
+- Git & GitHub Workflow
 
 ---
 
-### 🎯 My Goal
+## 🤝 Let's Connect
 
-I'm looking to collaborate on interesting web development projects and remote opportunities where I can contribute, learn, and grow as a Frontend Developer.
+🌐 **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_URL)
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hizbul-wahyudi-131271425/)
+
+📧 **Email:** hizbulwahyudi1@gmail.com
 
 ---
 
-⭐ Thanks for visiting my profile!
+### 💡 My Goal
+
+> Building digital experiences that are simple, useful, and create meaningful impact.
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
