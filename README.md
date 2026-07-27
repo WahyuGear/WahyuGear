@@ -73,7 +73,7 @@ A modern crowdfunding platform focused on creating a simple and accessible digit
 
 ## 🤝 Let's Connect
 
-🌐 **Portfolio:** [View My Portfolio](file:///C:/Users/ASUS/Documents/professional-landing-page/index.html)
+🌐 **Portfolio:** [View My Portfolio](https://professional-landing-page-41ixh8n7s.vercel.app/)
 
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hizbul-wahyudi-131271425/)
 
