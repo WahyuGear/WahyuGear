@@ -1,6 +1,6 @@
 # Hi, I'm Hizbul Wahyudi 👋
 
-### Frontend Developer | IT Consultant | Digital Solutions
+### Frontend Developer | React.js, Next.js, JavaScript, HTML & CSS | Building Modern, Responsive Web Applications | IT Consultant
 
 I'm a Computer Science graduate and IT Consultant with 6+ years of professional experience in technology and digital solutions.
 
